@@ -10,7 +10,7 @@ Read the content of the csv file using pandas.read_csv
 ### Step 3:
 Print the first 10 rows of the dataframe ,using df.head(10).
 ### Step 4:
-df.tail() returns the last n rows .
+To print the last n rows use, df.tail() .
 ### Step 5:
 Print the number of Rows using len(df.axes[0]).
 ### Step 6:
